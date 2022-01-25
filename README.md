@@ -1,6 +1,12 @@
 # LaTeX_OCR_PRO
 
 数学公式识别，增强：中文公式、手写公式
+exe封装后，链接: 
+
+https://pan.baidu.com/s/1kj29pFjLniQ9THbUSZMNlA 
+
+提取码: 6pp2
+
 
 ![](https://raw.githubusercontent.com/LinXueyuanStdio/LaTeX_OCR/master/art/6.png)
 ![](https://raw.githubusercontent.com/LinXueyuanStdio/LaTeX_OCR/master/art/visualization_6_short.gif)
